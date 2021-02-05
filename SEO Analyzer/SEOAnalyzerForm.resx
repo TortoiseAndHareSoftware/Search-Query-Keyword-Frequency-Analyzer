@@ -1,0 +1,1123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="rawTextData.Text" xml:space="preserve">
+    <value>nettech consultants	210	546	0.38	1.05
+net tech consultants	73	580	0.13	1.07
+nettech	27	2520	0.01	9.15
+net tech	13	1383	0.01	8.65
+it support jacksonville	2	904	0.00	33.90
+tech consultants	2	636	0.00	30.50
+tech companies in jacksonville fl	2	349	0.01	24.99
+managed network security	1	4913	0.00	59.14
+managed it services jacksonville	1	860	0.00	25.90
+it consultant jacksonville fl	1	312	0.00	2.30
+computer support florida	1	271	0.00	36.38
+managed service provider jacksonville fl	1	268	0.00	22.66
+jacksonville tech companies	1	166	0.01	20.72
+it consultants florida	1	153	0.01	34.47
+it consulting	1	146	0.01	11.09
+consultants inc	1	135	0.01	64.86
+net-tech	1	128	0.01	10.13
+jacksonville it services	1	99	0.01	31.48
+net tech inc	1	92	0.01	8.55
+"network support services"	1	15	0.07	56.53
+it consulting firms	1	7	0.14	1.43
+"network support service"	1	7	0.14	28.71
+it consultancy near me	1	6	0.17	3.67
+network consulting	1	5	0.20	5.80
+computer consultants near me	1	2	0.50	2.50
+new business in jacksonville fl	1	1	1.00	1.00
+computer support and services	0	7942	0.00	35.10
+computer support services	0	2759	0.00	77.18
+managed network security service	0	2611	0.00	71.67
+managed network security services	0	2183	0.00	75.84
+website consultants	0	1725	0.00	70.20
+it services jacksonville	0	978	0.00	28.08
+server support services	0	878	0.00	52.26
+tech consulting	0	861	0.00	83.83
+managed technology consulting va	0	804	0.00	49.08
+it network consultants	0	723	0.00	38.41
+it support jacksonville fl	0	701	0.00	31.69
+business computer support services	0	614	0.00	58.34
+managed it services jacksonville fl	0	587	0.00	25.36
+data recovery jacksonville	0	586	0.00	77.15
+managed services jacksonville	0	583	0.00	30.87
+server support	0	577	0.00	70.34
+smb it support	0	559	0.00	82.38
+managed technology consulting md	0	551	0.00	82.67
+it consulting jacksonville	0	529	0.00	7.82
+managed technology consulting	0	517	0.00	48.86
+it server support	0	514	0.00	41.11
+it computer support service	0	495	0.00	61.75
+it services jacksonville fl	0	486	0.00	19.33
+security service jacksonville fl	0	463	0.00	55.90
+security jacksonville fl	0	439	0.00	72.93
+computer consultant jacksonville	0	424	0.00	6.47
+network support	0	405	0.00	72.83
+data recovery jacksonville fl	0	405	0.00	76.18
+it service consultants	0	386	0.00	64.51
+computer consultant jacksonville fl	0	352	0.00	6.33
+managed exchange	0	349	0.00	96.05
+what is server support	0	337	0.00	42.01
+server support company	0	329	0.00	73.81
+layman's terms	0	313	0.00	87.46
+cloud consultants	0	291	0.00	65.68
+network monitoring jacksonville fl	0	289	0.00	8.97
+it companies in jacksonville fl	0	286	0.00	52.28
+business computer support	0	285	0.00	55.53
+managed services provider jacksonville	0	274	0.00	24.98
+cloud services jacksonville fl	0	272	0.00	23.57
+remote pc monitoring jacksonville fl	0	258	0.00	9.73
+internet security jacksonville fl	0	258	0.00	64.18
+computer support jacksonville fl	0	257	0.00	32.03
+jacksonville security companies	0	249	0.00	75.02
+tech consultant	0	243	0.00	36.54
+cloud business consulting	0	241	0.00	71.43
+los angeles small business file storage	0	234	0.00	58.79
+security managed	0	232	0.00	161.79
+netetch	0	230	0.00	7.45
+managed service provider jacksonville	0	226	0.00	22.14
+computer support service	0	221	0.00	68.72
+managed network support	0	220	0.00	94.65
+computer help desk jacksonville fl	0	217	0.00	31.69
+network support service	0	214	0.00	65.56
+business cloud storage jacksonville fl	0	212	0.00	17.90
+managed cloud services beach park	0	208	0.00	16.78
+it consultants jacksonville	0	207	0.00	1.05
+it consulting services jacksonville	0	207	0.00	40.24
+staff augmentation jacksonville	0	205	0.00	27.18
+laymans terms	0	190	0.00	86.35
+managed it support	0	187	0.00	16.73
+it support	0	184	0.00	37.33
+computer consultant	0	183	0.00	25.92
+jacksonville pc repair	0	182	0.00	74.95
+security companies in jacksonville florida	0	181	0.00	70.53
+purus consultants	0	177	0.00	41.20
+small business security jacksonville fl	0	175	0.00	33.85
+security companies jacksonville fl	0	172	0.00	78.80
+jacksonville data recovery service jacksonville, fl	0	168	0.00	73.22
+computer networking support services	0	167	0.00	44.02
+security companies in jacksonville fl	0	166	0.00	74.94
+networking support services	0	161	0.00	42.97
+computer repair jacksonville fl	0	161	0.00	71.86
+enterprise web hosting jacksonville fl	0	157	0.00	41.68
+on-site it support florida	0	152	0.00	35.76
+computer support jacksonville	0	150	0.00	38.66
+jacksonville skyline	0	148	0.00	76.02
+it support and networking	0	147	0.00	34.11
+it network support	0	144	0.00	76.59
+cloud exchange mail	0	141	0.00	58.94
+technology consulting inc	0	141	0.00	67.29
+onsite computer support	0	141	0.00	67.45
+managed services contract	0	141	0.00	80.00
+computer business consultants	0	140	0.00	28.29
+it consultants	0	140	0.00	88.27
+computer support business	0	137	0.00	53.53
+affordable computer repair jacksonville fl	0	135	0.00	53.23
+metro portfolios inc	0	134	0.00	17.32
+cloud service in jacksonville	0	134	0.00	22.38
+cloud based email for small business	0	134	0.00	90.91
+what is cloud computing in simple terms	0	133	0.00	77.78
+in layman's terms	0	133	0.00	78.86
+net consultants	0	130	0.00	69.71
+smb it	0	128	0.00	67.42
+computer support	0	126	0.00	12.42
+home security south jacksonville	0	125	0.00	38.16
+home security providers in jacksonville florida	0	125	0.00	91.26
+managed it consultants	0	124	0.00	19.60
+security monitoring jacksonville fl	0	124	0.00	72.76
+business consultant jacksonville	0	123	0.00	17.72
+networking consultants	0	123	0.00	66.07
+technology consulting	0	122	0.00	14.07
+managed services jacksonville fl	0	122	0.00	27.81
+computer support for business	0	121	0.00	60.85
+cloud computing small business guide	0	119	0.00	76.31
+it cloud	0	119	0.00	84.77
+company cloud storage jacksonville fl	0	118	0.00	23.29
+computer networking for small businesses south florida	0	116	0.00	80.16
+medium business consulting	0	114	0.00	65.89
+security service consultants	0	114	0.00	86.46
+standardization images	0	113	0.00	1.00
+small business it support services jacksonville	0	113	0.00	26.81
+network security services	0	112	0.00	13.66
+consultant jacksonville florida	0	112	0.00	24.93
+tech consultancy services	0	112	0.00	51.90
+data recovery services jacksonville fl	0	109	0.00	58.25
+patch management consulting	0	109	0.00	78.37
+home security jacksonville beach	0	109	0.00	81.79
+technology consultant inc	0	108	0.00	23.53
+home network setup jacksonville fl	0	107	0.00	22.33
+consultants	0	106	0.00	7.11
+jacksonville computer repair jacksonville, fl	0	105	0.00	71.09
+stamp mockup	0	105	0.00	71.55
+it services in jacksonville	0	104	0.00	25.48
+it managed business solutions jacksonville fl	0	104	0.00	49.84
+business it consultants	0	104	0.00	54.81
+disaster recovery plan jacksonville florida	0	104	0.00	68.23
+computer repair jacksonville jacksonville, fl	0	102	0.00	69.93
+good2	0	102	0.00	81.20
+technology consultants inc	0	99	0.00	60.41
+managed service providers jacksonville fl	0	98	0.00	19.04
+onsite it support florida	0	97	0.00	15.78
+network support services	0	97	0.00	35.70
+business technology consultants	0	97	0.00	85.88
+computer jacksonville fl	0	96	0.00	74.12
+technology companies in jacksonville fl	0	95	0.00	37.40
+computer	0	94	0.00	34.97
+jacksonville data recovery	0	94	0.00	71.44
+business consultants international	0	94	0.00	84.86
+virus removal for businesses jacksonville fl	0	92	0.00	18.11
+computer help fl	0	92	0.00	42.93
+technology support jacksonville fl	0	92	0.00	44.82
+small business cloud services in jacksonville	0	91	0.00	11.66
+fully managed it services in jacksonville	0	90	0.00	15.58
+network support jacksonville fl	0	90	0.00	33.88
+cloud support	0	90	0.00	60.62
+rack hosting jacksonville florida	0	88	0.00	43.81
+security companies in jacksonville	0	87	0.00	74.39
+virus protection jacksonville fl	0	85	0.00	21.92
+cloud computing in simple terms	0	85	0.00	75.01
+small business technology consultants	0	84	0.00	81.46
+tech consulting companies	0	84	0.00	83.92
+it support services	0	83	0.00	7.93
+computer support and service	0	83	0.00	28.88
+cyber security courses jacksonville	0	82	0.00	70.06
+managed it security	0	82	0.00	170.95
+it managed services in jacksonville	0	81	0.00	23.75
+managed it support jacksonville	0	81	0.00	23.84
+washington network consultant company	0	81	0.00	49.86
+network support services inc	0	80	0.00	62.61
+information security technology consulting for healthcare	0	80	0.00	72.50
+cloud security consultants	0	80	0.00	82.44
+it companies jacksonville	0	79	0.00	24.33
+managed security services smb	0	79	0.00	52.53
+core computer consultants	0	78	0.00	52.23
+it consulting jacksonville fl	0	77	0.00	3.26
+it support for businesses in jacksonville	0	77	0.00	22.94
+managed services companies in jacksonville	0	77	0.00	23.60
+it support consultants	0	77	0.00	49.26
+managed it jacksonville	0	76	0.00	21.74
+home networking installation jacksonville fl	0	76	0.00	33.37
+computer support services inc	0	76	0.00	37.93
+it support company jacksonville	0	75	0.00	18.75
+in laymans terms	0	74	0.00	78.00
+security company jacksonville fl	0	74	0.00	82.58
+computer courses jacksonville	0	73	0.00	63.58
+business consultant florida	0	73	0.00	78.92
+jacksonville it	0	72	0.00	26.67
+computer networking support	0	72	0.00	93.01
+it consulting companies	0	71	0.00	57.80
+it consulting florida	0	71	0.00	59.89
+it services for small business jacksonville	0	70	0.00	50.50
+computer stores jacksonville,fl	0	69	0.00	57.64
+#NAME?	0	68	0.00	76.28
+consulting firms jacksonville fl	0	67	0.00	32.96
+jacksonville it support	0	67	0.00	48.52
+restaurant consulting jacksonville	0	65	0.00	17.60
+restaurant consultant jacksonville	0	63	0.00	14.71
+computer service fl	0	63	0.00	56.62
+jacksonville tech	0	61	0.00	33.43
+patch management for smb	0	61	0.00	77.21
+enterprise it	0	59	0.00	92.93
+cloud computing explained simply	0	58	0.00	84.38
+health tech consultants	0	57	0.00	54.32
+daas consulting	0	55	0.00	15.65
+national loss consultants	0	55	0.00	61.00
+server network support	0	55	0.00	178.49
+technical consulting company	0	54	0.00	41.56
+small consultancy	0	54	0.00	87.74
+it company jacksonville	0	53	0.00	23.85
+jacksonville consulting firms	0	53	0.00	28.45
+jacksonville fl security	0	53	0.00	79.36
+it tech consulting	0	51	0.00	68.31
+consultants exchange	0	51	0.00	71.67
+services for small businesses in jacksonville	0	51	0.00	86.69
+business it support services	0	51	0.00	116.63
+managed network	0	51	0.00	150.71
+cyber attacks jacksonville fl	0	50	0.00	54.06
+network security companies	0	49	0.00	10.98
+jacksonville apartment security solutions	0	49	0.00	36.51
+nettech computers	0	49	0.00	43.90
+security management consultants	0	49	0.00	69.57
+consultant for tech firms	0	48	0.00	68.83
+it company jacksonville fl	0	47	0.00	71.19
+tech companies	0	46	0.00	7.04
+network support solutions	0	46	0.00	29.93
+computer support service inc	0	46	0.00	30.83
+are cyber criminals really targeting smbs	0	46	0.00	39.70
+technical consulting companies	0	46	0.00	68.52
+a4 magazine mockup	0	46	0.00	69.33
+computer repair jacksonville	0	45	0.00	87.44
+g8106	0	44	0.00	9.59
+managed it consulting companies	0	44	0.00	60.41
+security consultants inc	0	44	0.00	83.00
+it solutions jacksonville fl	0	44	0.00	94.27
+cloud in it	0	43	0.00	49.51
+network consultant company	0	43	0.00	76.91
+enterprise jax fl	0	43	0.00	77.16
+support for computer	0	43	0.00	157.70
+timucuan asset management	0	42	0.00	63.64
+nettech kÃ¼Ã§Ã¼k sanayi	0	41	0.00	10.29
+it support companies in jacksonville fl	0	41	0.00	20.98
+enterprise it resources inc	0	40	0.00	59.38
+smb it consulting	0	40	0.00	68.78
+home automation jax	0	40	0.00	93.53
+computer help desk	0	39	0.00	9.97
+technology consultant companies	0	39	0.00	54.85
+private cloud for small business	0	39	0.00	94.03
+nettch	0	38	0.00	6.47
+managed it services beach park	0	38	0.00	40.45
+managed network provider	0	38	0.00	73.37
+computer repair service jacksonville fl	0	38	0.00	89.05
+the tech consultants	0	37	0.00	37.54
+affordable computer support specialist	0	37	0.00	70.16
+business and technology consultancy	0	37	0.00	77.92
+skyline jacksonville	0	37	0.00	80.95
+business consultant south florida	0	37	0.00	84.03
+home tech consultants	0	36	0.00	41.14
+support packages for comptuer	0	36	0.00	42.81
+computer repair services jacksonville fl	0	36	0.00	85.69
+professional server support	0	35	0.00	32.40
+tech colsultancy	0	35	0.00	37.29
+fixed-fee it services	0	34	0.00	31.53
+it support jacksonville florida	0	34	0.00	49.12
+nettek	0	34	0.00	64.09
+windows server support services	0	34	0.00	70.35
+small company it support jacksonville	0	33	0.00	15.45
+computer stores jacksonville fl	0	33	0.00	57.24
+consulting companies in florida	0	33	0.00	75.55
+computer help	0	32	0.00	5.31
+network consultant companies bear	0	32	0.00	34.31
+best it support jacksonville	0	32	0.00	39.31
+mockup stamp	0	32	0.00	74.41
+masonry demo	0	32	0.00	78.38
+a4 magazine mockup free	0	32	0.00	78.41
+cloud technology consulting	0	32	0.00	89.34
+cloud it support services	0	31	0.00	161.32
+sputnik png	0	30	0.00	23.50
+tech consultancy	0	30	0.00	37.33
+business advisors jacksonville	0	30	0.00	42.40
+networking consultancy in usa	0	30	0.00	62.10
+consultant for restaurant business jacksonville	0	29	0.00	23.79
+smbs florida	0	29	0.00	30.07
+server and network support	0	29	0.00	30.48
+fixed fee it services	0	29	0.00	31.55
+tech consulting group	0	29	0.00	41.72
+tender consultants	0	29	0.00	44.28
+managed tech consulting	0	28	0.00	10.57
+jacksonville technology	0	28	0.00	73.29
+small business technology consultant	0	28	0.00	88.25
+storage consultants	0	28	0.00	90.54
+it support companies near me	0	27	0.00	18.78
+jacksonville real-time video monitoring	0	27	0.00	34.44
+jacksonville managed hosting	0	27	0.00	36.33
+security consultants group jobs	0	27	0.00	61.89
+enterprise consultants group	0	26	0.00	53.81
+technical consulting group	0	26	0.00	56.81
+industrial technology consultants	0	26	0.00	82.65
+large companies in jacksonville fl	0	26	0.00	86.73
+consultancy	0	25	0.00	6.76
+business computer support weston fl	0	25	0.00	25.84
+restaurant business consultant jacksonville	0	25	0.00	39.92
+managed it consultant	0	25	0.00	41.32
+cloud net technology	0	25	0.00	42.28
+rubber stamp mockup	0	25	0.00	56.68
+high tech consultants	0	25	0.00	68.24
+managed website consulting	0	25	0.00	73.32
+grid demo	0	25	0.00	86.48
+skyline jacksonville fl	0	25	0.00	88.12
+managed security florida	0	24	0.00	6.08
+security consultant	0	24	0.00	8.58
+small business it support in jacksonville	0	24	0.00	17.83
+support consultants	0	24	0.00	47.71
+hosting support services florida	0	24	0.00	55.96
+secure cloud south florida	0	24	0.00	75.00
+cyber security jacksonville fl	0	24	0.00	94.58
+cloud hosting south florida	0	24	0.00	133.04
+standardization image	0	23	0.00	1.00
+netteck	0	23	0.00	8.96
+services of computer	0	23	0.00	19.87
+server support service	0	23	0.00	50.17
+enterprise 32256	0	23	0.00	52.87
+business server support	0	23	0.00	52.96
+records storage jacksonville	0	23	0.00	81.43
+managed security network services	0	23	0.00	81.78
+jacksonville fl skyline	0	23	0.00	82.22
+lamens terms	0	23	0.00	84.00
+sutton manage your career download	0	23	0.00	84.13
+enterprise 1 consultants	0	23	0.00	86.83
+proactive technology management	0	23	0.00	86.91
+technical consultant services	0	23	0.00	87.13
+it consultant website	0	23	0.00	87.17
+managed information technology consulting	0	23	0.00	88.13
+cloud services consulting	0	23	0.00	91.65
+business tech support south florida	0	23	0.00	96.52
+jacksonville emergency consultants	0	22	0.00	52.86
+records consultants inc	0	22	0.00	72.36
+tech consulting for businesses	0	22	0.00	84.18
+occues	0	21	0.00	5.19
+fixed fee it	0	21	0.00	31.81
+explain the cloud in simple terms	0	21	0.00	32.24
+server consultants	0	21	0.00	58.29
+pc repair jacksonville fl	0	21	0.00	60.43
+computer service jacksonville fl	0	21	0.00	80.57
+cloud security south florida	0	21	0.00	86.33
+computer network services jacksonville fl	0	20	0.00	9.05
+technology consultants	0	20	0.00	28.20
+sharepoint consulting jacksonville	0	20	0.00	56.30
+desktop support jacksonville fl	0	20	0.00	62.05
+computer networking consultants	0	20	0.00	84.65
+corporate technology consultants	0	20	0.00	88.20
+technical service consultants	0	20	0.00	93.90
+onsite it support largo	0	19	0.00	19.89
+layman's service center	0	19	0.00	79.05
+solutions for small business in jacksonville	0	19	0.00	82.84
+information services consultants	0	19	0.00	82.95
+data network consultant	0	19	0.00	83.58
+data protection graphic	0	18	0.00	1.17
+a-tech consulting	0	18	0.00	33.00
+tech company consultants	0	18	0.00	35.78
+computer consultants international	0	18	0.00	43.89
+managed service contract	0	18	0.00	54.78
+medium consulting	0	18	0.00	62.61
+nettech solutions	0	18	0.00	63.83
+support server	0	18	0.00	73.17
+net consulting company	0	18	0.00	77.61
+managed security services for smb	0	18	0.00	82.67
+it network consultant	0	18	0.00	83.39
+best it infrastructure consulting providers	0	18	0.00	83.72
+smbs jax	0	17	0.00	10.06
+cloud systems consultants	0	17	0.00	41.82
+health technology consultancy	0	17	0.00	57.24
+corporations in jacksonville fl	0	17	0.00	58.35
+managed exchange service	0	17	0.00	60.00
+computer support and services near me	0	17	0.00	77.88
+computer consultants inc	0	17	0.00	78.29
+laymens terms	0	17	0.00	88.41
+it system consultant	0	17	0.00	89.35
+managed it services contract	0	17	0.00	95.24
+managed service provider	0	16	0.00	6.06
+small business it support jacksonville	0	16	0.00	15.44
+a tech consulting	0	16	0.00	29.31
+managed network security service tampa	0	16	0.00	58.81
+home network consultant	0	16	0.00	59.56
+nettec	0	16	0.00	64.75
+network support tech	0	16	0.00	74.62
+mockup magazine a4	0	16	0.00	76.25
+cloud service consultant	0	16	0.00	82.69
+smb cloud adoption	0	16	0.00	86.31
+florida managed it service providers	0	16	0.00	95.56
+computer repair	0	15	0.00	1.00
+medium jacksonville fl	0	15	0.00	36.27
+it consultant florida	0	15	0.00	65.67
+enterprise it consulting	0	15	0.00	95.87
+httpswww tapinto net	0	15	0.00	104.00
+business consultants inc	0	15	0.00	105.40
+home security jacksonville fl	0	15	0.00	116.67
+managed services south florida	0	15	0.00	128.27
+small business it consultant	0	15	0.00	156.13
+e-nettech	0	14	0.00	9.71
+fixed fee it provider	0	14	0.00	12.86
+cloud managed services in knox	0	14	0.00	33.57
+company consulting florida	0	14	0.00	56.14
+sutton park address	0	14	0.00	56.50
+scalability in cloud computing pdf	0	14	0.00	57.43
+bit by bit computer consultants	0	14	0.00	74.29
+computer repair in jacksonville fl	0	14	0.00	74.86
+web database consultant	0	14	0.00	84.79
+technology consultancy services	0	14	0.00	86.29
+reliable consultants	0	14	0.00	86.36
+managed it services firm	0	14	0.00	129.36
+i.t. consulting	0	13	0.00	1.69
+â€­+1 (904) 992-0699â€¬	0	13	0.00	3.15
+smbs jacksonville	0	13	0.00	14.08
+www net	0	13	0.00	30.46
+ÑÐ¿ÑƒÑ‚Ð½Ð¸Ðº Ð¿Ð½Ð³	0	13	0.00	33.08
+tech consulting company	0	13	0.00	36.54
+small business it consultancy	0	13	0.00	53.77
+rubber consultants	0	13	0.00	55.00
+it and network support	0	13	0.00	65.54
+tech 901	0	13	0.00	68.38
+business tech consulting	0	13	0.00	71.62
+computer network consultancy	0	13	0.00	81.38
+laymen's terms	0	13	0.00	83.62
+security guards jacksonville	0	13	0.00	85.46
+netyech	0	12	0.00	8.50
+cloud it support in jacksonville	0	12	0.00	13.33
+we tech consultants	0	12	0.00	43.42
+florida consultants	0	12	0.00	70.33
+tech support jacksonville fl	0	12	0.00	71.83
+the network support company	0	12	0.00	72.25
+layman s terms	0	12	0.00	87.92
+magazine mockup free	0	12	0.00	94.92
+cloud computing provider for small business	0	12	0.00	98.42
+project management consulting services	0	12	0.00	474.92
+protection graphic	0	11	0.00	1.00
+consultant	0	11	0.00	3.82
+good4	0	11	0.00	11.00
+fixed-fee it provider	0	11	0.00	13.91
+net tech computers	0	11	0.00	50.82
+home security sutton	0	11	0.00	59.64
+enterprise 32225	0	11	0.00	62.27
+web site consultants	0	11	0.00	69.18
+managed network security solutions	0	11	0.00	86.27
+cloud technology for small business	0	11	0.00	87.09
+home security jacksonville jacksonville, fl	0	11	0.00	89.82
+laymanâ€™s terms	0	11	0.00	91.45
+technology consulting companies	0	11	0.00	93.09
+healthcare security consultants	0	11	0.00	93.73
+data storage jacksonville fl	0	11	0.00	95.36
+cloud hosting for small business	0	11	0.00	136.82
+it consulting south florida	0	11	0.00	177.64
+restaurant consulting	0	10	0.00	1.00
+consulting it companies	0	10	0.00	1.60
+managed service providers	0	10	0.00	6.40
+managed it	0	10	0.00	7.10
+help.nettech.net	0	10	0.00	7.50
+florida technical consultants	0	10	0.00	14.90
+jacksonville managed it services	0	10	0.00	29.30
+corporate support consulting	0	10	0.00	41.00
+computers jacksonville fl	0	10	0.00	45.20
+managed it network security services	0	10	0.00	45.20
+g8-106	0	10	0.00	45.80
+managed service contracts	0	10	0.00	52.40
+"managed it security services"	0	10	0.00	53.20
+complete network support	0	10	0.00	57.80
+onsite computer support company	0	10	0.00	62.80
+expert computer repairs jacksonville	0	10	0.00	72.60
+computer repair jacksonville florida	0	10	0.00	73.10
+security consultants group	0	10	0.00	82.90
+small cloud computing companies	0	10	0.00	89.00
+free magazine mockup	0	10	0.00	94.20
+on site computer support	0	10	0.00	97.00
+cloud computing consulting companies	0	10	0.00	156.40
+consulting firms	0	9	0.00	1.22
+tech providers inc	0	9	0.00	1.89
+consulting	0	9	0.00	3.89
+netrech	0	9	0.00	6.89
+managed services	0	9	0.00	9.56
+technology consultant	0	9	0.00	9.89
+computer consultants	0	9	0.00	16.89
+"small medium business information security technology consulting for healthcare"	0	9	0.00	18.11
+auctor esse	0	9	0.00	18.89
+13400 sutton park dr s	0	9	0.00	19.78
+conquer your pc jacksonville, fl	0	9	0.00	25.67
+serversupport	0	9	0.00	37.00
+business technical consulting	0	9	0.00	50.67
+computer repair experts jacksonville jacksonville, fl	0	9	0.00	50.78
+portfolio grids	0	9	0.00	52.89
+network consultant	0	9	0.00	54.78
+little cloud pdf	0	9	0.00	58.22
+network security services support	0	9	0.00	58.56
+core it consultants	0	9	0.00	68.11
+jacksonville corporations	0	9	0.00	69.78
+technology consultant services	0	9	0.00	72.44
+network manager consultant	0	9	0.00	73.67
+expert consultants inc	0	9	0.00	76.11
+hosted exchange mail	0	9	0.00	76.11
+best consulting company florida	0	9	0.00	77.56
+disaster recovery plan consultant	0	9	0.00	85.89
+computer technology consultants	0	9	0.00	90.22
+focus technology consulting	0	9	0.00	95.22
+it managed service firm	0	9	0.00	143.56
+managed service it firm	0	9	0.00	149.78
+technical business consulting services	0	9	0.00	180.00
+consultancy companies	0	8	0.00	1.00
+security consultants	0	8	0.00	3.12
+computer business consultants inc	0	8	0.00	19.75
+managed security network	0	8	0.00	22.25
+it support fl	0	8	0.00	22.38
+information technology consultants	0	8	0.00	22.88
+consulting firms in jacksonville fl	0	8	0.00	24.38
+managed it security services	0	8	0.00	31.50
+what is ecloud	0	8	0.00	33.38
+computer repair expert jacksonville jacksonville, fl	0	8	0.00	47.00
+enterprise 32244	0	8	0.00	51.62
+consultants website	0	8	0.00	56.38
+skyline consultants	0	8	0.00	60.00
+exchange consultants	0	8	0.00	61.38
+computer network support services	0	8	0.00	62.12
+cloud 901	0	8	0.00	62.62
+network help	0	8	0.00	66.12
+stamp mock up	0	8	0.00	67.88
+florida business consultant	0	8	0.00	72.38
+managed exchange services	0	8	0.00	77.75
+avatar chat software	0	8	0.00	79.25
+network systems support	0	8	0.00	81.50
+in laymens terms	0	8	0.00	83.25
+cctv system jacksonville fl	0	8	0.00	87.38
+jacksonville home security	0	8	0.00	90.62
+ecloud	0	8	0.00	96.50
+technology companies near me	0	7	0.00	1.00
+it consulting company	0	7	0.00	3.71
+technology consulting firms	0	7	0.00	7.00
+it consultant jacksonville techsperts	0	7	0.00	7.14
+technology companies	0	7	0.00	8.43
+good5	0	7	0.00	9.00
+it consulting services	0	7	0.00	23.57
+support computer service florida	0	7	0.00	35.14
+enterprise technology consultants	0	7	0.00	38.00
+business computer consultants	0	7	0.00	40.57
+cloud it consultant	0	7	0.00	53.71
+computer consulting	0	7	0.00	55.43
+why tech consulting	0	7	0.00	58.86
+cloud technology consulting maine	0	7	0.00	63.57
+technical consultants inc	0	7	0.00	63.86
+magazine mockup a4	0	7	0.00	64.14
+technical consultant companies	0	7	0.00	66.00
+enterprise 32218	0	7	0.00	72.14
+sharepoint jacksonville	0	7	0.00	78.86
+home technology consultants	0	7	0.00	83.43
+manage incident consultant	0	7	0.00	84.00
+laments terms	0	7	0.00	85.57
+examples where cloud computing is used	0	7	0.00	86.29
+management consulting firms florida	0	7	0.00	88.14
+lehmans terms	0	7	0.00	88.71
+management consulting firms in florida	0	7	0.00	90.43
+business networking consultants	0	7	0.00	91.00
+enterprise wide consultants on demand	0	7	0.00	93.71
+project management consultants inc	0	7	0.00	95.00
+exchange cloud hosting	0	7	0.00	104.14
+computer technology companies	0	6	0.00	1.00
+restaurant consultants	0	6	0.00	1.00
+tech companies in florida	0	6	0.00	2.33
+net-tech consulting	0	6	0.00	2.83
+managed computer services	0	6	0.00	3.00
+it consultancy	0	6	0.00	4.17
+it managed service	0	6	0.00	5.17
+cccp managed it services and consulting	0	6	0.00	6.00
+network security png	0	6	0.00	6.00
+it consultant near me	0	6	0.00	8.33
+small business it consulting	0	6	0.00	10.67
+computer service	0	6	0.00	23.00
+professional computer consultants	0	6	0.00	28.67
+ecloud managed solutions	0	6	0.00	35.83
+cloud managed service providers plant city	0	6	0.00	36.33
+computer technology consultants inc	0	6	0.00	48.33
+sutton park jacksonville fl	0	6	0.00	49.67
+onsite pc support	0	6	0.00	57.33
+ajax jacksonville	0	6	0.00	63.67
+it support consultancy	0	6	0.00	63.67
+outsourced cloud it support in jacksonville	0	6	0.00	66.00
+it consultancy website	0	6	0.00	67.50
+experienced database consulting	0	6	0.00	67.67
+experienced database consultant	0	6	0.00	68.83
+business technology consultant	0	6	0.00	75.17
+florida business consultants	0	6	0.00	78.50
+networking consultancies in usa	0	6	0.00	81.33
+florida tech security	0	6	0.00	88.50
+cloud services consultant	0	6	0.00	89.50
+security jacksonville	0	6	0.00	89.67
+security training jacksonville fl	0	6	0.00	90.17
+business and technical consulting nevada	0	6	0.00	92.33
+it stays	0	6	0.00	94.83
+best service cloud consulting providers	0	6	0.00	97.83
+computer network consultants	0	6	0.00	105.83
+home security provider jacksonville fl	0	6	0.00	116.33
+infrastructure consultancy	0	6	0.00	213.17
+it services	0	5	0.00	1.00
+technology companies in florida	0	5	0.00	1.60
+technology consulting firm	0	5	0.00	1.80
+consultancy firms	0	5	0.00	2.20
+cloud consulting services	0	5	0.00	2.60
+tech consulting firms	0	5	0.00	2.60
+business consultancy services	0	5	0.00	3.80
+improv tek consulting inc	0	5	0.00	4.20
+restaurant consulting company jacksonville	0	5	0.00	4.20
+managed it services	0	5	0.00	4.60
+data protection png	0	5	0.00	5.60
+nettech technology	0	5	0.00	6.60
+net tech services	0	5	0.00	10.80
+it service company	0	5	0.00	19.80
+"server support services"	0	5	0.00	20.20
+"business computer support"	0	5	0.00	24.40
+software maintenance jacksonville	0	5	0.00	28.60
+secure tech consultancy	0	5	0.00	36.00
+hands on server support	0	5	0.00	40.40
+sharepoint services jacksonville	0	5	0.00	48.00
+large manufacturing companies in jacksonville fl	0	5	0.00	48.20
+human tech consulting	0	5	0.00	49.60
+network support for your business	0	5	0.00	49.80
+ecloud services	0	5	0.00	56.20
+metro portfolio	0	5	0.00	72.80
+slow computer help fl	0	5	0.00	74.40
+"it services firm"	0	5	0.00	74.80
+in lamens terms	0	5	0.00	74.80
+a4 magazine	0	5	0.00	78.80
+in lament terms	0	5	0.00	80.00
+managed it services remote monitoring and management	0	5	0.00	80.60
+managed network security service providers	0	5	0.00	81.00
+leymans terms	0	5	0.00	82.00
+lamest terms	0	5	0.00	85.40
+jacksonville computer repair	0	5	0.00	86.40
+security companies jacksonville florida	0	5	0.00	86.40
+laimens terms	0	5	0.00	87.60
+companies consultants	0	5	0.00	88.00
+enterprise jax	0	5	0.00	88.00
+lames terms	0	5	0.00	88.00
+home security companies jacksonville jacksonville, fl	0	5	0.00	89.20
+small cloud companies	0	5	0.00	90.00
+cloud computing consultancy	0	5	0.00	90.20
+cloud security for small business	0	5	0.00	92.80
+lemans terms	0	5	0.00	92.80
+remote support experts florida	0	5	0.00	96.00
+it consultancy company	0	5	0.00	98.20
+security design consultants	0	5	0.00	99.00
+what is cloud computing in simple language	0	5	0.00	99.00
+technology consulting company	0	5	0.00	103.00
+computer networking for businesses south florida	0	5	0.00	140.60
+managed security services	0	5	0.00	190.20
+managed services florida	0	5	0.00	238.20
+consultant companies	0	4	0.00	1.00
+ppc consulting	0	4	0.00	1.50
+restaurant consulting services	0	4	0.00	2.25
+computer security company	0	4	0.00	3.00
+cyber security companies	0	4	0.00	4.50
+small business it support services	0	4	0.00	4.50
+business consultancy	0	4	0.00	5.00
+jax consulting	0	4	0.00	5.75
+inc	0	4	0.00	7.50
+business it support	0	4	0.00	8.00
+cloud consulting	0	4	0.00	8.00
+managed services providers	0	4	0.00	9.25
+net tech support service	0	4	0.00	9.50
+it security service	0	4	0.00	11.75
+cloud consulting services in jacksonville	0	4	0.00	13.75
+à¤¨à¥‡à¤Ÿà¤¾	0	4	0.00	16.00
+computer consulting company	0	4	0.00	18.00
+jacksonville business it support techsperts	0	4	0.00	18.25
+admin net tech	0	4	0.00	21.25
+it network support services	0	4	0.00	24.00
+skyline consultants inc	0	4	0.00	29.00
+sutton park drive jacksonville fl	0	4	0.00	31.25
+cloudin	0	4	0.00	33.50
+onsite computer support services company	0	4	0.00	36.00
+technology consultant company	0	4	0.00	37.25
+e-tech consultants	0	4	0.00	39.25
+jacksonville real-time video surveillance	0	4	0.00	41.25
+net cloud tek	0	4	0.00	42.75
+enterprise 32246	0	4	0.00	45.75
+cloud cost consultants	0	4	0.00	46.25
+it professionals	0	4	0.00	48.75
+experienced database consultants	0	4	0.00	54.75
+it services network support	0	4	0.00	56.50
+computer support for your business	0	4	0.00	56.75
+cloud in business	0	4	0.00	58.75
+managed consulting	0	4	0.00	62.75
+best technology consulting	0	4	0.00	66.00
+smb consultants	0	4	0.00	68.00
+cyber security courses fernandina beach	0	4	0.00	69.25
+fl consulting	0	4	0.00	70.50
+automated health consulting inc	0	4	0.00	70.75
+it network consultants inc	0	4	0.00	71.00
+technology business consultant	0	4	0.00	72.75
+tech cloud	0	4	0.00	75.00
+cloud security smbs	0	4	0.00	75.75
+home alarm repair jacksonville	0	4	0.00	81.50
+cloud enterprise exchange hosting	0	4	0.00	85.50
+in lamence terms	0	4	0.00	85.75
+leyman's terms	0	4	0.00	87.00
+affordable computer repair fl	0	4	0.00	88.25
+gravida 0	0	4	0.00	88.25
+home network consultants	0	4	0.00	89.50
+business and technology consulting maine	0	4	0.00	90.25
+lamans terms	0	4	0.00	91.00
+laymenâ€™s terms	0	4	0.00	91.75
+tech consultant jobs	0	4	0.00	93.25
+layman's	0	4	0.00	95.75
+business consultant network	0	4	0.00	96.25
+businesses in jacksonville fl	0	4	0.00	96.50
+cloud data storage for small business	0	4	0.00	100.75
+i.t. consultants	0	4	0.00	104.50
+small business technology consulting	0	4	0.00	134.00
+network it support	0	4	0.00	142.00
+it consulting and services	0	4	0.00	163.50
+cloud services for small businesses	0	4	0.00	172.00
+consulting firms in florida	0	4	0.00	283.00
+computer tech	0	3	0.00	1.00
+consulting companies	0	3	0.00	1.00
+consulting company	0	3	0.00	1.00
+it services companies	0	3	0.00	1.00
+south tech	0	3	0.00	1.00
+met tech	0	3	0.00	1.33
+security consulting	0	3	0.00	2.33
+restaurant consulting firms	0	3	0.00	2.67
+"network support solutions"	0	3	0.00	4.00
+eq consulting	0	3	0.00	4.67
+managed service	0	3	0.00	5.00
+managed services provider	0	3	0.00	5.00
+jacksonville it consultant techsperts	0	3	0.00	6.67
+security graphic	0	3	0.00	6.67
+computer network jacksonville fl	0	3	0.00	7.00
+computer tech support near me	0	3	0.00	8.00
+nets	0	3	0.00	8.00
+it security consulting	0	3	0.00	8.67
+computer business support	0	3	0.00	11.33
+à¤…à¤°à¤¨à¥‡à¤ à¤¾	0	3	0.00	19.33
+managed it service providers beach park	0	3	0.00	22.67
+top managed service providers beach park	0	3	0.00	22.67
+networking jacksonville	0	3	0.00	26.67
+rubber mockup	0	3	0.00	31.67
+beach clouds	0	3	0.00	33.67
+cloud consultants and services inc	0	3	0.00	35.00
+tech on the net	0	3	0.00	36.33
+computer network support services company	0	3	0.00	37.00
+cloud-based desktop consultant	0	3	0.00	39.00
+national data consultant	0	3	0.00	40.00
+cloud cost consultancy	0	3	0.00	40.33
+affordable computer repair jax	0	3	0.00	41.33
+desktops as a service	0	3	0.00	43.33
+ecloud secure	0	3	0.00	45.00
+technology consulting help	0	3	0.00	45.00
+united computer consultants	0	3	0.00	48.33
+what is network support services	0	3	0.00	48.67
+small medium business managed cybersecurity service	0	3	0.00	51.00
+safe management jacksonville fl	0	3	0.00	54.00
+computer technician training in jacksonville	0	3	0.00	55.00
+chat avatar	0	3	0.00	56.67
+dr sutton jacksonville fl	0	3	0.00	56.67
+computer support professionals	0	3	0.00	57.00
+exchangemail.com	0	3	0.00	59.00
+snow landscape	0	3	0.00	62.67
+consultant inc	0	3	0.00	65.33
+waitress jacksonville	0	3	0.00	65.67
+behind the cloud pdf	0	3	0.00	66.00
+outsourced cloud it services in jacksonville	0	3	0.00	66.33
+what is a tech consultant	0	3	0.00	67.67
+graphic consultants	0	3	0.00	69.67
+top cloud consultants	0	3	0.00	70.67
+mockup rubber stamp	0	3	0.00	73.67
+900x900	0	3	0.00	76.67
+medium healthcare consulting	0	3	0.00	76.67
+national security consultants inc	0	3	0.00	77.33
+training consultants.com	0	3	0.00	79.67
+company bankruptcies consultants	0	3	0.00	80.00
+florida disaster consultants	0	3	0.00	80.33
+personal security devices florida	0	3	0.00	80.33
+portfolio mockup free	0	3	0.00	80.33
+net consultant	0	3	0.00	81.67
+how many cloud service providers are there	0	3	0.00	82.00
+cloud-based desktop	0	3	0.00	82.33
+enterprise jacksonville fl	0	3	0.00	85.33
+business it consultant	0	3	0.00	85.67
+lament terms	0	3	0.00	86.67
+mail hosted exchange	0	3	0.00	87.67
+technical business consultant	0	3	0.00	87.67
+lamins terms	0	3	0.00	89.00
+i.t consultants	0	3	0.00	89.33
+describing clouds	0	3	0.00	89.67
+demo consultants	0	3	0.00	90.33
+florida tech	0	3	0.00	90.33
+home security jacksonville florida	0	3	0.00	90.67
+365 security management group	0	3	0.00	91.00
+it security services	0	3	0.00	92.00
+lay mans terms	0	3	0.00	92.00
+management and training consultants inc	0	3	0.00	92.67
+jacksonville home automation	0	3	0.00	93.00
+laymans	0	3	0.00	93.33
+cloud computing security consultant	0	3	0.00	94.00
+jacksonville security	0	3	0.00	94.00
+computer support com	0	3	0.00	94.33
+network consultant companies	0	3	0.00	94.33
+how to reduce network downtime	0	3	0.00	96.67
+gallery system	0	3	0.00	97.00
+commercial security jacksonville fl	0	3	0.00	97.33
+security management consulting	0	3	0.00	115.67
+cloud consultancy services	0	3	0.00	128.00
+computer support south florida	0	3	0.00	156.33
+managed security	0	3	0.00	173.67
+managed security service provider	0	3	0.00	188.33
+healthcare it consulting	0	3	0.00	194.67
+cloud computing for small business	0	3	0.00	195.67
+business consultant near me	0	2	0.00	1.00
+businesses near me	0	2	0.00	1.00
+computer companies	0	2	0.00	1.00
+computer repair near me	0	2	0.00	1.00
+computer tech companies	0	2	0.00	1.00
+computer technician near me	0	2	0.00	1.00
+computer technicians near me	0	2	0.00	1.00
+corporations near me	0	2	0.00	1.00
+help desk jobs near me	0	2	0.00	1.00
+it companies jacksonville fl	0	2	0.00	1.00
+kcb consulting	0	2	0.00	1.00
+koruma png	0	2	0.00	1.00
+list of technology companies in south florida	0	2	0.00	1.00
+managed it service	0	2	0.00	1.00
+pc repair	0	2	0.00	1.00
+pc repair near me	0	2	0.00	1.00
+protection png	0	2	0.00	1.00
+restaurant business consultants jacksonville	0	2	0.00	1.00
+restaurant computers	0	2	0.00	1.00
+restaurants consultants jacksonville	0	2	0.00	1.00
+security companies	0	2	0.00	1.00
+computers	0	2	0.00	2.50
+it consulting firm	0	2	0.00	2.50
+it security consultants	0	2	0.00	2.50
+it service companies	0	2	0.00	2.50
+network security company	0	2	0.00	2.50
+met	0	2	0.00	3.00
+account consultant	0	2	0.00	3.50
+computer security	0	2	0.00	3.50
+gei consultants	0	2	0.00	3.50
+managed services business	0	2	0.00	4.00
+collabera inc	0	2	0.00	4.50
+it services providers	0	2	0.00	4.50
+xiuang wwx net swsjacksonvilleflorida	0	2	0.00	4.50
+13400	0	2	0.00	5.00
+901 operations consulting	0	2	0.00	5.00
+networking companies near me	0	2	0.00	5.50
+florida tech companies	0	2	0.00	6.00
+fl com server	0	2	0.00	7.00
+home computer security	0	2	0.00	7.00
+riveron consulting	0	2	0.00	7.00
+industrial computer	0	2	0.00	7.50
+server work	0	2	0.00	8.00
+computer servers	0	2	0.00	8.50
+agility nettech	0	2	0.00	9.00
+donet tech	0	2	0.00	9.00
+macys	0	2	0.00	9.00
+it consulting companies near me	0	2	0.00	9.50
+fl consultants	0	2	0.00	10.00
+it consultant	0	2	0.00	10.00
+onsite it support seffner	0	2	0.00	10.00
+security computers	0	2	0.00	10.00
+consulting and	0	2	0.00	10.50
+cyber security	0	2	0.00	11.50
+business consultant	0	2	0.00	12.50
+minim inc	0	2	0.00	14.00
+small business it services jacksonville	0	2	0.00	14.00
+cloudin technologies	0	2	0.00	19.00
+net tech ltd	0	2	0.00	22.00
+smb consulting	0	2	0.00	22.00
+a-tech consulting, inc.	0	2	0.00	23.00
+data security consultants	0	2	0.00	23.00
+technical consultants international	0	2	0.00	27.50
+"according to the 2013 data breach investigations report, __________ percent 
+of all successful data breaches involve internal attackers."	0	2	0.00	33.00
+business consultant services	0	2	0.00	34.50
+cloud and network technology consulting	0	2	0.00	36.00
+data recognition corporation jacksonville fl	0	2	0.00	38.00
+reliable consultants inc	0	2	0.00	38.00
+managed network security company	0	2	0.00	38.50
+local business consultant	0	2	0.00	39.00
+sutton security services	0	2	0.00	39.00
+tech on net	0	2	0.00	39.50
+business it consultancy	0	2	0.00	41.00
+computer onsite support	0	2	0.00	42.50
+one network support	0	2	0.00	42.50
+mockupfree.co	0	2	0.00	45.00
+computer support services near me	0	2	0.00	46.50
+jacksonville live video monitoring	0	2	0.00	47.50
+management staff consultants	0	2	0.00	48.00
+masonry sorting	0	2	0.00	48.00
+cloud computing consulting methods	0	2	0.00	48.50
+enterprise 32259	0	2	0.00	49.50
+labor continuity consulting california	0	2	0.00	51.00
+tech cost consultants	0	2	0.00	51.00
+technical consulting firms	0	2	0.00	51.00
+bounce management consulting	0	2	0.00	52.00
+net consultancy	0	2	0.00	53.00
+bob ross ipsum	0	2	0.00	53.50
+pc support	0	2	0.00	54.50
+enterprise 32257	0	2	0.00	60.00
+computer security consultants	0	2	0.00	62.50
+safe management jacksonville florida	0	2	0.00	62.50
+home technology consultant	0	2	0.00	65.00
+medium in jacksonville fl	0	2	0.00	65.00
+sputnik net	0	2	0.00	66.50
+it staff augmentation services fl	0	2	0.00	72.00
+help information technology consultancy llc	0	2	0.00	73.00
+it consulting and support	0	2	0.00	73.00
+tech server	0	2	0.00	75.50
+it cloud services	0	2	0.00	76.00
+the cloud is	0	2	0.00	76.50
+business it consulting	0	2	0.00	77.00
+information consultants inc	0	2	0.00	78.50
+cloud technology pdf	0	2	0.00	79.50
+office depot lax	0	2	0.00	79.50
+human network consultancy	0	2	0.00	80.00
+cloud technology consultant	0	2	0.00	80.50
+best companies to work for in jacksonville	0	2	0.00	83.00
+manage security services	0	2	0.00	84.00
+networking technologies and support inc	0	2	0.00	84.50
+bank technology consultants	0	2	0.00	85.00
+business technology consultancy	0	2	0.00	85.00
+benefits of desktop as a service	0	2	0.00	86.00
+onsite computer support services	0	2	0.00	86.00
+jacksonville computer service	0	2	0.00	87.00
+computer technician jacksonville fl	0	2	0.00	87.50
+healthcare companies in jacksonville fl	0	2	0.00	87.50
+lamence terms	0	2	0.00	87.50
+smbs conduct security training	0	2	0.00	87.50
+business networking consultant	0	2	0.00	88.00
+computersupport com	0	2	0.00	88.00
+sea consultants	0	2	0.00	88.00
+smb cloud security	0	2	0.00	88.00
+enterprise jacksonville	0	2	0.00	88.50
+lamen's terms	0	2	0.00	88.50
+managed security service providers	0	2	0.00	88.50
+tech companies consulting companies	0	2	0.00	88.50
+leighmans terms	0	2	0.00	89.00
+business network consulting	0	2	0.00	89.50
+enterprise jax beach	0	2	0.00	90.00
+leimans terms	0	2	0.00	90.00
+best cloud services for small businesses	0	2	0.00	90.50
+layments terms	0	2	0.00	91.50
+cloud software for small business	0	2	0.00	92.50
+consultants com	0	2	0.00	92.50
+cloud based services for small business	0	2	0.00	93.50
+small business it consultants	0	2	0.00	93.50
+business plan consultant in florida	0	2	0.00	95.50
+industrial loss consultants	0	2	0.00	95.50
+consultants company	0	2	0.00	96.00
+itil consultant	0	2	0.00	96.00
+hosted email infrastructure is an example for ?	0	2	0.00	97.00
+managed it services south florida	0	2	0.00	97.00
+it support computer	0	2	0.00	98.00
+dominik1	0	2	0.00	98.50
+jacksonville fl businesses	0	2	0.00	99.00
+laymens	0	2	0.00	99.00
+computer technologies consultants	0	2	0.00	99.50
+management companies in jacksonville	0	2	0.00	101.00
+security consultant companies	0	2	0.00	182.00
+managed cloud	0	2	0.00	183.50
+managed services consultant	0	2	0.00	183.50
+business computer repair	0	2	0.00	184.00
+managed cloud services	0	2	0.00	186.00
+cloud services for small business	0	2	0.00	199.00
+business continuity plan	0	2	0.00	263.00
+managed it support for healthcare	0	2	0.00	288.00
+managed cloud hosting services	0	2	0.00	374.50
+a+computer repair	0	1	0.00	1.00
+asd consulting	0	1	0.00	1.00
+business consulting	0	1	0.00	1.00
+business security companies	0	1	0.00	1.00
+companies	0	1	0.00	1.00
+companies near me	0	1	0.00	1.00
+company near me	0	1	0.00	1.00
+computer near me	0	1	0.00	1.00
+computer repair classes near me	0	1	0.00	1.00
+computer repair technician training	0	1	0.00	1.00
+computer repair training	0	1	0.00	1.00
+computer repairs	0	1	0.00	1.00
+computer screen repair	0	1	0.00	1.00
+computer security companies near me	0	1	0.00	1.00</value>
+  </data>
+</root>
